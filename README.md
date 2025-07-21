@@ -1,4 +1,4 @@
-# 🎵 MusicApp - Web-Based Telegram Music Bot
+# 🎵 TIDAL TUNES - Web-Based Telegram Music Bot
 
 WaveTune is a **feature-rich Telegram music bot** that combines the best features of existing music bots, bringing a **modern web-based GUI** experience to music streaming within Telegram. Built with **TypeScript**, it offers efficiency, scalability, and seamless integration with **Telegram Mini Apps**.
 
@@ -60,7 +60,7 @@ Get started quickly by deploying to Heroku with just one click:
 We welcome contributions! Feel free to **fork**, **open issues**, or **submit pull requests** to improve WaveTune.
 
 ## 🔗 Links
-- **GitHub Repository**: [WaveTune](https://github.com/shoaib910385/Musicapp)
+- **GitHub Repository**: [TIDAL Tunes](https://github.com/shoaib910385/Musicapp)
 - **License**: MIT License
 
 ## 📜 License
