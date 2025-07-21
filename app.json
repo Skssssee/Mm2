@@ -1,6 +1,6 @@
 {
   "name": "MusicApp",
-  "description": "TIDAL - Music Bot",
+  "description": "YORSA - Music Bot",
   "repository": "https://github.com/shoaib910385/MUSICAPP",
   "keywords": ["music", "bot", "discord", "wave", "node"],
   "buildpacks": [
