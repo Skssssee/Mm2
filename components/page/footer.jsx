@@ -6,7 +6,8 @@ export default function Footer() {
             {/* <div>
                 <h1 className="text-xl font-bold">Music<span className="opacity-50">hub</span></h1>
             </div> */}
-            <p className="text-center text-sm text-muted-foreground">Deployed with ♥ by <a className="underline text-primary hover:text-primary" href="https://t.me/Hehe_stalker">- 愛 | 𝗦𝗧么𝗟𝗞𝚵𝗥 | ⌁</a>.</p>
+            <p className="text-center text-sm text-muted-foreground">ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ, ʙʏ <a className="underline text-primary hover:text-primary" href="https://t.me/Hehe_stalker">- 
+                | 𝗦𝗧么𝗟𝗞𝚵𝗥 | ⌁</a>.</p>
         </footer>
     )
 }
