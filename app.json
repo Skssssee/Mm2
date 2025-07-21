@@ -1,7 +1,7 @@
 {
   "name": "MusicApp",
   "description": "YORSA - Music Bot",
-  "repository": "https://github.com/shoaib910385/MUSICAPP",
+  "repository": "https://github.com/HKMUSIC/Yorsapk",
   "keywords": ["music", "bot", "discord", "wave", "node"],
   "buildpacks": [
     {
